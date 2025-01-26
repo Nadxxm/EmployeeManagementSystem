@@ -14,7 +14,7 @@ An efficient **Spring Boot** based application for managing employee records, pr
 ---
 
 ## 🛠️ **Tech Stack**
-- **Backend**: Spring Boot, Spring Data JPA , Rest API
+- **Backend**: Spring Boot, Spring Data JPA , Rest API , Spring MVC , SQL , CORE JAVA
 - **Database**: H2 (for development), can be switched to MySQL/PostgreSQL in production
 - **Tools**: 
   - Spring Tool Suite (STS)
